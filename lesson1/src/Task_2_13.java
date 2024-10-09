@@ -11,7 +11,6 @@ public class Task_2_13 {
         int n1 = n % 10;
         n /= 10;
         int n2 = n % 10;
-        n /= 10;
 
         System.out.printf("%d%d%d", n0, n1, n2 );
 

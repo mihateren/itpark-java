@@ -12,7 +12,6 @@ public class Task_2_19 {
         int n2 = n % 10;
         n /= 10;
         int n3 = n % 10;
-        n /= 10;
 
         int sum = n0 + n1 + n2 + n3;
         int mul = n0 * n1 * n2 * n3;
